@@ -1,0 +1,3 @@
+2024-01-06 06:37:46,165 [main.py:33 -                 init() ] INFO: Starting with args: {'continuing_project': False, 'advanced': True, '--external-log-process-port': '8125', '--api-key': '*****', 'user_id': 'be64ff13-9228-1b13-245c-2b069482174a', 'workspace': None, 'app_id': 'ed094e53-071b-4ec3-8905-26c333e3f6f1', 'email': 'alexurbanec@tovala.com', 'password': '*****', 'step': None}
+2024-01-06 06:38:45,299 [prompts.py:60 -             ask_user() ] INFO: Q: What is the project name?
+2024-01-06 06:38:45,299 [prompts.py:61 -             ask_user() ] INFO: A: Executive f(x)
